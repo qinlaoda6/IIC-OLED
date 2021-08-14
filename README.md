@@ -1,0 +1,6 @@
+# IIC-OLED
+STM32 F10x IIC 0.96寸屏幕驱动
+//SCL>>PA5
+//SDA>>PA7
+//VCC>>3.3V
+//GND>>GND
